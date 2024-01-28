@@ -1,6 +1,6 @@
 //sharing behavior btwn two classes-->using extends keyword
 //ParentClass=Super class || childclass=subclass
-//Types -> Single/Multilevel/Heirarchical/Multiple(dart does not support this)
+//Types -> Single/Multilevel/Heirarchical/Multiple(dart does not support this coz it can lead to ambiguity of same name methods)
 class Person {
   String? name;
   int? age;
