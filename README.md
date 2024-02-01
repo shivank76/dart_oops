@@ -12,9 +12,6 @@ This repository serves as a quick guide to Object-Oriented Programming (OOP) con
 1. **Follow Serial Number:** Each concept is organized with a serial number. If two or more files have the same serial number, they are inter-related and should be followed accordingly.
 2. **Code with One-Line Definition:** The code snippets include one-line definitions with keywords commented for quick understanding.
 
-## Table of Contents
-***
-
 ## Credits
 
 This tutorial is based on [Dart Tutorial](https://dart-tutorial.com/), and special thanks to them for providing valuable resources.
