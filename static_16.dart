@@ -1,7 +1,7 @@
-//If we define var/method taht is shared by all instances of a class, we can use static keyword
+//If we define var/method that is shared by all instances of a class, we can use static keyword
 //Static members are accessed using the class name. It is used for memory management
 
-//Static Variable
+// Static Variable
 class Simple {
   static String planet = "Earth";
 }
@@ -17,8 +17,6 @@ void main() {
 void display() {
   print(Simple.planet);
 }
-
-//Static Method
 
 // class Employee {
 //   static int count = 0;
